@@ -1,6 +1,8 @@
+/// Updated at 03/21/2021 04:20:15
 Class sp.NewClass1 Extends %Persistent [ Language = objectscript ]
 {
 
+/// ///
 Property a As %String;
 
 Storage Default
