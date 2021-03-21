@@ -1,7 +1,8 @@
-/// Updated at 03/14/2021 03:21:59
+/// Updated at 03/21/2021 04:11:02
 Class sp.NewClass4 Extends %Persistent [ Language = objectscript ]
 {
 
+/// /make a change
 Property newprop As %Stream;
 
 Storage Default
