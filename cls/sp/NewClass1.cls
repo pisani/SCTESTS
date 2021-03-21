@@ -1,8 +1,7 @@
-/// Updated at 03/21/2021 04:21:24
+/// Updated at 03/21/2021 04:22:07
 Class sp.NewClass1 Extends %Persistent [ Language = objectscript ]
 {
 
-/// ///cmd line mod
 Property a As %String;
 
 Storage Default
